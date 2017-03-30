@@ -16,7 +16,7 @@ $ `git clone git@github.com:nathanKramer/lit-git.git lit-git-tmp; source lit-git
 
 To make ur git experience dank AF, you need to alias `git` to `lit`:
 
-$ `echo "alias git='lit'" >> ~/.bashrc`
+$ `echo "alias lit='git'" >> ~/.bashrc`
 
 
 ### Assuming you a swish MF and u aliased to lit:
