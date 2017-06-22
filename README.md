@@ -39,6 +39,16 @@ $ lit booty pop
 ```
 
 ```
+# Reset your files back to HEAD
+$ lit heck HEAD --hard
+```
+
+```
+# Make your commits fight to the death
+$ lit who-would-win <BRANCH_NAME>
+```
+
+```
 # Show your most recent commit
 $ lit cheeky-peek
 ```

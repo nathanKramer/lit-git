@@ -2,10 +2,14 @@
 while read yeah nah ; do
   echo git config --global alias.$yeah $nah
 done <<EODANK
+bamboozle       'add --patch'
+dad             '!curl -w "\n" -H "Accept: text/plain" https://icanhazdadjoke.com/ && git add'
+heck            'reset'
 yoink           'fetch'
 plop            'push'
 yolo-plop       'push -f'
 cheeky-peek     'show'
+who-would-win   'rebase -i'
 wibble          'checkout'
 wobble          'branch'
 wibble-wobble   'checkout -b'
